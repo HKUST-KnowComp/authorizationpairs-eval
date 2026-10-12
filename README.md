@@ -7,7 +7,7 @@ It downloads a Hugging Face dataset and asks the model to return `ALLOW` or `BLO
 pip install -r requirements.txt
 export OPENAI_API_KEY='YOUR_API_KEY'
 # Optional: a local server or another compatible provider
-export OPENAI_BASE_URL='http://localhost:8000/v1'
+# export OPENAI_BASE_URL='http://localhost:8000/v1'
 python eval.py --dataset YOUR_DATASET_REPO --model YOUR_MODEL --limit 10
 ```
 
