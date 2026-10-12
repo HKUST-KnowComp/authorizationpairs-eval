@@ -4,8 +4,6 @@
 
 \* Equal contribution.
 
-[Paper PDF](https://openreview.net/pdf?id=DqDRnbn1wf)
-
 ## Quick Start
 
 ```bash
