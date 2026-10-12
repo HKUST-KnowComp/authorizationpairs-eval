@@ -1,6 +1,10 @@
 # Same Operation, Different Permission: Evaluating Whether Guardrails Honor Authorization
 
-Anonymous ACL submission
+[Huihao JING](https://openreview.net/profile?id=~Huihao_JING1)\*, [Shaojin Chen](https://openreview.net/profile?id=~Shaojin_Chen1)\*, [Wenbin Hu](https://openreview.net/profile?id=~Wenbin_Hu3), [Yuxuan Liu](https://openreview.net/profile?id=~Yuxuan_Liu44), [Haochen Shi](https://openreview.net/profile?id=~Haochen_Shi4), [Zhongwei Xie](https://openreview.net/profile?id=~Zhongwei_Xie2), [Haoran Li](https://openreview.net/profile?id=~Haoran_Li3), [Yangqiu Song](https://openreview.net/profile?id=~Yangqiu_Song1)
+
+\* Equal contribution.
+
+[Paper PDF](https://openreview.net/pdf?id=DqDRnbn1wf)
 
 ## Quick Start
 
